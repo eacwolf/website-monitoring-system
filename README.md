@@ -4,13 +4,13 @@ Website uptime and ping monitoring with Prometheus and Grafana provides a powerf
 
 This setup allows you to:
 
-Monitor multiple websites or APIs for availability and latency
+1)Monitor multiple websites or APIs for availability and latency
 
-Visualize success rates, response durations, and HTTP statuses
+2)Visualize success rates, response durations, and HTTP statuses
 
-Detect outages or performance degradation early
+3)Detect outages or performance degradation early
 
-Set up alerts using Prometheus Alertmanager for automatic notifications
+4)Set up alerts using Prometheus Alertmanager for automatic notifications
 
 It's an efficient, scalable, and fully customizable monitoring stack ideal for developers, SREs, and system admins.
 
