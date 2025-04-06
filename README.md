@@ -14,7 +14,7 @@ This setup allows you to:
 
 It's an efficient, scalable, and fully customizable monitoring stack ideal for developers, SREs, and system admins.
 
-check my blog to see how it is setuped/https://medium.com/@akhilkrishnar4321
+check my blog to see how it is setuped/ https://medium.com/@akhilkrishnar4321/how-to-monitor-website-uptime-with-prometheus-blackbox-exporter-and-grafana-4ae88571e581
 
 
 
