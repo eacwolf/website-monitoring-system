@@ -1,0 +1,12 @@
+
+groups:
+  - name: WebsiteDownAlerts
+    rules:
+      - alert: WebsiteDown
+        expr: probe_success == 0
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "{{ $labels.instance }} is down"
+          description: "{{ $labels.instance }} has been unreachable for the last 5 minutes."
